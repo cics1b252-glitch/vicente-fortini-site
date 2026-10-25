@@ -1,0 +1,3 @@
+Vicente Fortini — V1.7
+Correções: Lembranças recomenda Eu Já Era Feliz Ali; capa correta de Eu Só Posso Agradecer; remoção da faixa não lançada Você Sorri Daí, Eu Sorrio Daqui; catálogo com 8 faixas e links Spotify.
+Abra index.html. A V1.6 não foi modificada.
